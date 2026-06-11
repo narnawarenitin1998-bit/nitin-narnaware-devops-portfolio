@@ -8,7 +8,7 @@
 
 ## Portfolio Preview
 
-![Portfolio Preview](images/portfolio-preview.png)
+![Portfolio Preview](images/portfolio-preview-v2.png)
 
 ---
 
