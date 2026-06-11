@@ -1,16 +1,70 @@
-# React + Vite
+# Nitin Narnaware - DevOps Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live Demo
 
-Currently, two official plugins are available:
+🌐 https://nitin-narnaware-devops-portfolio.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Portfolio Preview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![Portfolio Preview](images/portfolio-preview.png)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## About Me
+
+Passionate DevOps Engineer with hands-on experience in AWS, Linux, Docker, Jenkins, Terraform, Git, Kubernetes and CI/CD Automation.
+
+---
+
+## Technical Skills
+
+* AWS
+* Linux
+* Docker
+* Jenkins
+* Terraform
+* Git
+* Kubernetes
+* Bash Scripting
+* CI/CD
+
+---
+
+## Tech Stack
+
+* React
+* Vite
+* CSS3
+* Framer Motion
+* React Icons
+
+---
+
+## Features
+
+✅ Responsive Design
+
+✅ Modern DevOps Portfolio
+
+✅ Technical Skills Showcase
+
+✅ Project Showcase
+
+✅ Experience Timeline
+
+✅ Contact Section
+
+---
+
+## Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/nitin-narnaware-devops/
+
+GitHub:
+https://github.com/narnawarenitin1998-bit
+
+Email:
+[nitin.narnaware.cloud@gmail.com](mailto:nitin.narnaware.cloud@gmail.com)
