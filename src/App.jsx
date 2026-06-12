@@ -194,7 +194,7 @@ function App() {
       </ul>
 
       <a
-        href="https://github.com/narnawarenitin1998-bit/docker-multi-tier-app"
+       href="https://github.com/narnawarenitin1998-bit/docker-multi-tier-app"
         target="_blank"
         rel="noreferrer"
       >
