@@ -166,7 +166,7 @@ function App() {
       </ul>
 
       <a
-        href="https://github.com/narnawarenitin1998-bit"
+       href="https://github.com/narnawarenitin1998-bit/aws-backup-system"
         target="_blank"
         rel="noreferrer"
       >
