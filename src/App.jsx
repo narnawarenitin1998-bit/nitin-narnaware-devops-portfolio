@@ -222,7 +222,7 @@ function App() {
       </ul>
 
       <a
-        href="https://github.com/narnawarenitin1998-bit/jenkins-cicd-pipeline"
+href="https://github.com/narnawarenitin1998-bit/jenkins-cicd-pipeline"
         target="_blank"
         rel="noreferrer"
       >
