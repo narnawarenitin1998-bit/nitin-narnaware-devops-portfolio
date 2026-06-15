@@ -233,6 +233,34 @@ href="https://github.com/narnawarenitin1998-bit/jenkins-cicd-pipeline"
   </div>
 </section>
 
+<div className="skill-card">
+  <h3>Kubernetes Nginx Deployment</h3>
+
+  <p>
+    Deployed and managed Nginx application using Kubernetes
+    Deployments, Pods and Services.
+  </p>
+
+  <p>
+    <strong>Tech Stack:</strong>
+    Kubernetes | Docker | Nginx
+  </p>
+
+  <ul>
+    <li>✓ Deployment Management</li>
+    <li>✓ Pod Orchestration</li>
+    <li>✓ Service Exposure</li>
+  </ul>
+
+  <a
+    href="https://github.com/narnawarenitin1998-bit/kubernetes-nginx-deployment"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <button className="btn">View Code</button>
+  </a>
+</div>
+
 {/* EXPERIENCE */}
 <section className="experience" id="experience">
   <h1>EXPERIENCE</h1>
