@@ -142,6 +142,7 @@ function App() {
       </section>
 {/* PROJECTS */}
 <section className="skills" id="projects">
+  
   <h1>PROJECTS</h1>
 
   <div className="skill-grid">
@@ -230,26 +231,23 @@ href="https://github.com/narnawarenitin1998-bit/jenkins-cicd-pipeline"
       </a>
     </div>
 
-  </div>
-</section>
-
-<div className="skill-card">
+   <div className="skill-card">
   <h3>Kubernetes Nginx Deployment</h3>
 
   <p>
-    Deployed and managed Nginx application using Kubernetes
-    Deployments, Pods and Services.
+    Deployed Nginx application on Kubernetes using
+    Deployment and Service manifests.
   </p>
 
   <p>
     <strong>Tech Stack:</strong>
-    Kubernetes | Docker | Nginx
+    Kubernetes | YAML
   </p>
 
   <ul>
-    <li>✓ Deployment Management</li>
-    <li>✓ Pod Orchestration</li>
-    <li>✓ Service Exposure</li>
+    <li>✓ Deployment</li>
+    <li>✓ Service</li>
+    <li>✓ NodePort</li>
   </ul>
 
   <a
@@ -260,6 +258,11 @@ href="https://github.com/narnawarenitin1998-bit/jenkins-cicd-pipeline"
     <button className="btn">View Code</button>
   </a>
 </div>
+
+  </div>
+</section>
+
+
 
 {/* EXPERIENCE */}
 <section className="experience" id="experience">

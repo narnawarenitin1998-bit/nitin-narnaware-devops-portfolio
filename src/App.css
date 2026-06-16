@@ -172,6 +172,8 @@ body::after{
   text-align:center;
 
   transition:.4s;
+
+  min-height: 400px;
 }
 
 .skill-card h3{
